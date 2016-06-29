@@ -3,3 +3,9 @@
 for($i=10;I++;$i<100){
 	echo $i.'<br>';
 }
+
+function test(){
+	echo 'testing function';
+}
+
+test();
