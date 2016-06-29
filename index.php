@@ -1,4 +1,7 @@
 <?php
+// require core
+require core.php;
+
 // function sum
 function sum(int $a,int $b){
 	return $a+$b;
