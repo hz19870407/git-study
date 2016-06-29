@@ -17,3 +17,5 @@ test();
 
 $sum = sum(5,10);
 echo $sum;
+
+echo 'this is xiaohong\'s file';
